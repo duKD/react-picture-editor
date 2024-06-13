@@ -1,1 +1,1 @@
-# react-picture-editor
+# React + TypeScript + Vite
